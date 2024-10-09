@@ -4,8 +4,8 @@ Adijat did 1. **Create metadata for your project managing the log files - create
 
 Michael did 2.  **Use byte and character streams for simulation of the data exchange in the system**
 
-Roamilkumar did 3. **Add logs files for each day for each charging station, for each energy source and for
+Ammar Haziq did 3. **Add logs files for each day for each charging station, for each energy source and for
 all system as whole**
 
-Ammar did 4. **Give user the possibility to open the requested log file based on the name of the
+Roamilkumar  did 4. **Give user the possibility to open the requested log file based on the name of the
 equipment or date**
