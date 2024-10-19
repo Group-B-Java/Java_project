@@ -9,3 +9,10 @@ all system as whole**
 
 Roamilkumar  did 4. **Give user the possibility to open the requested log file based on the name of the
 equipment or date**
+
+
+The second task **Exception handling and Unit testing** was shared thus:
+a.Handling Multiple Exceptions - Ammar Haziq Bin Mohd Halim
+b.Re-throwing Exceptions - Eze Michael
+c.Resource Management - Adijat Ajoke Slaimon
+d.Chaining Exceptions - Roamilkumar Maheshkumar Kachchhi
