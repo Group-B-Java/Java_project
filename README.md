@@ -13,6 +13,9 @@ equipment or date**
 
 The second task **Exception handling and Unit testing** was shared thus:
 a.Handling Multiple Exceptions - Ammar Haziq Bin Mohd Halim
+
 b.Re-throwing Exceptions - Eze Michael
+
 c.Resource Management - Adijat Ajoke Slaimon
+
 d.Chaining Exceptions - Roamilkumar Maheshkumar Kachchhi
