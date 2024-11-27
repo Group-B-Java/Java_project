@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module CapstoneProject {
+	requires junit;
+	
+}
