@@ -16,22 +16,29 @@ Features
 1). Device Control:
    Turn devices ON or OFF via the console.
    Monitor the energy consumption of each device.
+   
 2). Energy Management:
    Track energy levels in batteries.
    Simulate energy generation from solar panels.
    Distribute energy intelligently among devices.
+   
 3). Concurrency:
    Support for simultaneous device operation and energy updates using multithreading.
 4). Logging:
+
    Logs system actions to the console and a file (systemOutput.log).
 5). Unit Testing:
+
    Includes unit tests to validate system functionality and exception handling.
 
 Roles and Responsibilities
 
 Worked on User interface:  Adijat Ajoke Sulaimon
+
 Worked on Concurrency Simulation: Ammar Haziq Bin Mohd Halim
+
 Worked on Unit testing and exception Handling : Eze Michael
+
 Worked on  Saving Log Info :RoamilKumar Kachchhi
 
 
