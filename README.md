@@ -54,6 +54,10 @@ In the capstone folder you will find there are two separate folders (in zip) one
 
 Running on Java version javac 23.0.1, Environment used: Eclipse IDE
 
+## Minor updates
+
+Energy consumption simulation has now added mutex in critical sections in thread operations for stability
+
 
 
 
