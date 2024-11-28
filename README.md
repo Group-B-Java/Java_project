@@ -1,6 +1,8 @@
+
+
 (CAPSTONE PORJECT)
 
-Smart House: Simulation of Energy Supply and Consumption
+# Smart House: Simulation of Energy Supply and Consumption
 
 
 The aim of the This project is a simulation of a Smart House system that manages energy supply and consumption using Java. The system incorporates:
@@ -11,7 +13,7 @@ The aim of the This project is a simulation of a Smart House system that manages
 4. A  Interface for user interaction.
 5. Logging for monitoring system actions and performance.
 
-Features
+## Features
 
 1). Device Control:
    Turn devices ON or OFF via the console.
@@ -29,9 +31,10 @@ Features
    Logs system actions to the console and a file (log file).
    
 5). Unit Testing:
+
    Includes unit tests to validate system functionality and exception handling.
 
-Roles and Responsibilities
+## Roles and Responsibilities
 
 Worked on User interface:  Adijat Ajoke Sulaimon
 
@@ -42,6 +45,18 @@ Worked on Unit testing and exception Handling : Eze Michael
 Worked on  Saving Log Info :RoamilKumar Kachchhi
 
 For the UML we all worked together.
+
+## Files Management
+
+There are two separate folders one is for concurrency simulation and the other is for the user interface. Please refer to both.
+
+## Dependencies
+
+Running on Java version javac 23.0.1
+
+
+
+
 
 
 
