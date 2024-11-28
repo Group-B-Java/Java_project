@@ -42,5 +42,8 @@ Worked on Unit testing and exception Handling : Eze Michael
 
 Worked on  Saving Log Info :RoamilKumar Kachchhi
 
+##Files Management
+There are two separate folders one is for concurrency simulation and the other is for the user interface. Please refer to both.
+
 
 
