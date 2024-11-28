@@ -52,7 +52,7 @@ There are two separate folders one is for concurrency simulation and the other i
 
 ## Dependencies
 
-Running on Java version javac 23.0.1
+Running on Java version javac 23.0.1, Environment used: Eclipse IDE
 
 
 
