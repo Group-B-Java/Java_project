@@ -24,9 +24,10 @@ Features
    
 3). Concurrency:
    Support for simultaneous device operation and energy updates using multithreading.
+   
 4). Logging:
-
-   Logs system actions to the console and a file (systemOutput.log).
+   Logs system actions to the console and a file (log file).
+   
 5). Unit Testing:
 
    Includes unit tests to validate system functionality and exception handling.
