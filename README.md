@@ -48,7 +48,7 @@ For the UML we all worked together.
 
 ## Files Management
 
-There are two separate folders one is for concurrency simulation and the other is for the user interface. Please refer to both.
+In the capstone folder you will find there are two separate folders (in zip) one is for concurrency simulation and the other is for the user interface main system. Please refer to both. There is also demo video and presentation slides
 
 ## Dependencies
 
