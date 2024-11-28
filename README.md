@@ -29,7 +29,6 @@ Features
    Logs system actions to the console and a file (log file).
    
 5). Unit Testing:
-
    Includes unit tests to validate system functionality and exception handling.
 
 Roles and Responsibilities
@@ -42,8 +41,8 @@ Worked on Unit testing and exception Handling : Eze Michael
 
 Worked on  Saving Log Info :RoamilKumar Kachchhi
 
-##Files Management
-There are two separate folders one is for concurrency simulation and the other is for the user interface. Please refer to both.
+For the UML we all worked together.
+
 
 
 
