@@ -1,6 +1,6 @@
 
 
-(CAPSTONE PORJECT)
+(CAPSTONE PROJECT)
 
 # Smart House: Simulation of Energy Supply and Consumption
 
